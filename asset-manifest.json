@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tabs-organizer/static/css/main.678b8962.css",
-    "main.js": "/tabs-organizer/static/js/main.46072f2d.js",
+    "main.js": "/tabs-organizer/static/js/main.68a16168.js",
     "index.html": "/tabs-organizer/index.html",
     "main.678b8962.css.map": "/tabs-organizer/static/css/main.678b8962.css.map",
-    "main.46072f2d.js.map": "/tabs-organizer/static/js/main.46072f2d.js.map"
+    "main.68a16168.js.map": "/tabs-organizer/static/js/main.68a16168.js.map"
   },
   "entrypoints": [
     "static/css/main.678b8962.css",
-    "static/js/main.46072f2d.js"
+    "static/js/main.68a16168.js"
   ]
 }
