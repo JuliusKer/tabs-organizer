@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tabs-organizer/static/css/main.618f2b8f.css",
-    "main.js": "/tabs-organizer/static/js/main.90fcdaee.js",
+    "main.css": "/tabs-organizer/static/css/main.6c2e7546.css",
+    "main.js": "/tabs-organizer/static/js/main.c741471f.js",
     "index.html": "/tabs-organizer/index.html",
-    "main.618f2b8f.css.map": "/tabs-organizer/static/css/main.618f2b8f.css.map",
-    "main.90fcdaee.js.map": "/tabs-organizer/static/js/main.90fcdaee.js.map"
+    "main.6c2e7546.css.map": "/tabs-organizer/static/css/main.6c2e7546.css.map",
+    "main.c741471f.js.map": "/tabs-organizer/static/js/main.c741471f.js.map"
   },
   "entrypoints": [
-    "static/css/main.618f2b8f.css",
-    "static/js/main.90fcdaee.js"
+    "static/css/main.6c2e7546.css",
+    "static/js/main.c741471f.js"
   ]
 }
